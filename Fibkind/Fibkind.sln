@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibkind.Test", "Fibkind.Test\Fibkind.Test.csproj", "{D23EFB57-6A38-4FE1-B004-E21F71BFE86E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibkind.App", "Fibkind.App\Fibkind.App.csproj", "{09119B9D-5690-4EEB-9647-22F48E2B9258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23EFB57-6A38-4FE1-B004-E21F71BFE86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23EFB57-6A38-4FE1-B004-E21F71BFE86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23EFB57-6A38-4FE1-B004-E21F71BFE86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23EFB57-6A38-4FE1-B004-E21F71BFE86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09119B9D-5690-4EEB-9647-22F48E2B9258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09119B9D-5690-4EEB-9647-22F48E2B9258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09119B9D-5690-4EEB-9647-22F48E2B9258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09119B9D-5690-4EEB-9647-22F48E2B9258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {953F6AD5-C2FA-45B3-A322-9A026763CA25}
+	EndGlobalSection
+EndGlobal
